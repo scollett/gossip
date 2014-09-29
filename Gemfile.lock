@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fakeredis (0.5.0)
+      redis (~> 3.0)
+    minitest (5.3.2)
+    redis (3.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fakeredis
+  minitest
+  redis
