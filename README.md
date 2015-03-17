@@ -1,4 +1,4 @@
 Gossip
 ======
 
-Process event log and notification based on Redis pub/sub and Sinatra. Hello!
+Process event log and notification based on Redis pub/sub and Sinatra. Hi!
